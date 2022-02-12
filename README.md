@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HalaSalim77
+- ✌️ Student in University of Palestine ✨ - Third Year 
+- 👀 I’m a web developer PHP-LARAVEL Framework
+- 🌱 I’m currently learning and studying to become professional Web developer. 
+- 📫 You can reach me via my email hala.s.salim@gmail.com -💞️OR linkedin account https://www.linkedin.com/in/hala-abusalim-88673120a
