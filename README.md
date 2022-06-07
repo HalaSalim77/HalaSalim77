@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halasalim77&label=Profile%20views&color=0e75b6&style=flat" alt="halasalim77" /> </p>
 
 
-- 🌱 I’m currently learning **Laravel , React js**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **hala.s.salim@gmail.com**
 
