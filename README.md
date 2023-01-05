@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hala AbuSalim</h1>
-<h3 align="center">Backend Developer - PHP LARAVEL</h3>
+<h1>Hi 👋, I'm Hala AbuSalim <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h3>Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halasalim77&label=Profile%20views&color=0e75b6&style=flat" alt="halasalim77" /> </p>
 
