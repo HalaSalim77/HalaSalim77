@@ -11,6 +11,10 @@
 <a href="https://discord.gg/Hala Abu Salim#6322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hala Abu Salim#6322" height="30" width="40" /></a>
 </p>
 
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halasalim77&show_icons=true&locale=en&layout=compact" alt="halasalim77" /></p>
 
