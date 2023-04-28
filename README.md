@@ -15,11 +15,6 @@
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halasalim77&show_icons=true&locale=en&layout=compact" alt="halasalim77" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halasalim77&show_icons=true&locale=en" alt="halasalim77" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halasalim77&" alt="halasalim77" /></p>
 
 
