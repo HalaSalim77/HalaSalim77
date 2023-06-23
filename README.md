@@ -10,12 +10,3 @@
 <a href="https://fb.com/https://www.facebook.com/hala.abusalim.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hala.abusalim.5/" height="30" width="40" /></a>
 <a href="https://discord.gg/Hala Abu Salim#6322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hala Abu Salim#6322" height="30" width="40" /></a>
 </p>
-
-<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halasalim77&" alt="halasalim77" /></p>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halasalim77" alt="halasalim77" /></a> </p>
