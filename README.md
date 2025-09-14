@@ -21,7 +21,7 @@ My mission is to empower products with high performance, optimized SEO, and deve
 ## 🏆 Notable Projects
 - [**Theqa**](https://theqa.reviews/)
 - [**Yaqeen**](https://yaaqen.com/)
-- **Adel** – Labor Justice Platform (Laravel + Vue).  
+- [**Adel**](https://adel.ps/) – Labor Justice Platform (Laravel + Vue).  
 
 ---
 
